@@ -25,7 +25,7 @@ Liste des commandes joueur
 * /compact  permet de transformer en blocks les objets dans votre inventaire \(LEGENDARY seulement\)
 * /e  pour accéder à son enderchest
 * /bottle get  mettre son expérience dans des bouteilles pour éviter de la perdre.
-
+* 
 
 
 
