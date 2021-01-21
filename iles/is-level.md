@@ -2,9 +2,17 @@
 
 Informations à noter :
 
+
+
+l'end et le nether ne comptent pas dans l'is level
+
 deathpenalty: 100 **\( tout les membres de l'île comptent \)**
 
-level-calc: 5 \* sqrt\(blocks / level\_cost\)
+\*\*\*\*
+
+**level cost :** 500
+
+level-calc: 28 \* sqrt\(blocks / level\_cost\)
 
 
 
