@@ -24,6 +24,11 @@
 * [Les Jobs et les commandes](jobs/les-jobs-et-les-commandes.md)
 * [Le jobs shop](jobs/le-jobs-shop.md)
 
+## Items Custom et Recette custom
+
+* [Items Custom](items-custom-et-recette-custom/items-custom.md)
+* [Recettes Custom](items-custom-et-recette-custom/recettes-custom.md)
+
 ## Upgrade/Fonctionnalité
 
 * [Les différentes upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
