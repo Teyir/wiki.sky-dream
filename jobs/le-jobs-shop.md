@@ -12,5 +12,7 @@ Mais outre les items custom il y a des upgrade assez pratique, exemple :
   
 Au lvl 125 bucheron vous pourrez acheter le bucheron pro qui permet de casser un arbre géant ou tout arbre en soit de manière instant \(comme avec le mod veinminer\)  
   
-Par ailleurs cette fonction de bucheron pro peut s'activer et désactiver à volonté une fois achetée avec la commande : /ut toggle
+Par ailleurs cette fonction de bucheron pro peut s'activer et désactiver à volonté une fois achetée avec la commande : /ut toggle  
+  
+PS : Le jobs shop libraire est vide, il sera rempli très bientôt. le temps de régler un nouveau plugin.
 
