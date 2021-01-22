@@ -12,17 +12,17 @@ Ici on va vous expliquez le principe de ce sky-block !
  - Il y a aussi les Tiers à acheter dans le /tiers qui sont des espèce de grade à acheter contre de l'argent ingame afin de débloquer des choses.  
  - Il y a les Challenges Secondaire à accéder via /cs qui sont des objectifs précis qui donne des récompense varié.  
  - Il y les jobs à choisir et monter, vous pouvez en quitter et changer à volonté sans perte. C.F page Les jobs et les commandes pour plus d'info à ce sujet.  
- - Il faut aussi malgré tout se faire de l'argent, pour cela faites : /sell all ou /sell hand ou via le gui du /shop pour faire celà.  
+ - Il faut aussi malgré tout se faire de l'argent, pour cela faites : /sell all ou /sell hand ou via le gui du /shop pour faire cela.  
   
 Voilà pour les objectifs principaux.  
 Maintenant le reste qui est à faire est de débloquer les différentes upgrades et fonctionnalités comme les four, des jobs shop, des iles, les cobblegen etc etc.  
   
-Il y aussi une nouvelle fonctionnalité sur le serveur la zone farming, certe elle était déjà présente avant, mais ca à profondément changé.  
+Il y aussi une nouvelle fonctionnalité sur le serveur la zone farming, certes elle était déjà présente avant, mais ca à profondément changé.  
 Il est vrai que la zone farming et ces fonctionnalités diverges d'un skyblock, mais ce n'est pas un mal, il est dans aucun cas obligée d'y aller et d'y faire des truc, on peut très bien joueur que avec du skyblock.  
 Par contre il est vrai que dans ce cas il y a des choses que vous n'aurez pas accès.  
   
 Cela permet de changer d'occupation la zone farming, de pas faire que du skyblock.   
-On peut y farm comme des malades, faire des quete un peu rp, faire du pvp etc...  
+On peut y farm comme des malades, faire des quête un peu rp, faire du pvp etc...  
 Voir page Zone Farming du wiki pour plus d'info  
 
 
