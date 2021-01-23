@@ -2,7 +2,7 @@
 
 Pour cette nouvelle saison de Sky-Dream, nous avons décider de faire un tout nouveau spawn comme il faut.  
   
-La particularité est qu'il compote plusieurs iles.  
+La particularité est qu'il comporte plusieurs iles.  
 Il y a :   
  - 4 iles a bâtiments thématiques où il y aura des trades.  
  - l'ile central  
