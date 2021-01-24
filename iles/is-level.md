@@ -6,7 +6,7 @@ Informations à noter :
 
 l'end et le nether ne comptent pas dans l'is level
 
-deathpenalty: 100 **\( tout les membres de l'île comptent \)**
+deathpenalty: 100 **\( tous les membres de l'île comptent \)**
 
 \*\*\*\*
 
