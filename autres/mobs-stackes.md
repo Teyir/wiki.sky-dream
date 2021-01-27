@@ -25,6 +25,7 @@ Sur le serveur les mobs sont stackés automatiquement, mais pour éviter quelque
 * MULE
 * PANDA
 * WOLF
+* IRON\_GOLEM
 
 
 
