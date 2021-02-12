@@ -15,6 +15,7 @@
 
 ## Îles
 
+* [Les fours](iles/les-fours.md)
 * [Is level](iles/is-level.md)
 * [Liste des commandes](iles/liste-des-commandes/README.md)
   * [Commandes joueur](iles/liste-des-commandes/commandes-joueur.md)
