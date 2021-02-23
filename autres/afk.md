@@ -14,3 +14,7 @@ Pour retourner sur le serveur SkyBlock faites **/server skyblock** .
 
 Une fois sur le serveur SkyBlock faites **/afkmenu** ou **/afkshop** pour dépenser ses AFK Coins.
 
+
+
+PS: le serveur reste constamment allumé 
+
