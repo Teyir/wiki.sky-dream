@@ -7,5 +7,7 @@ Par ailleurs vous pourrez profiter d'une animation fort sympathique.
 Il existe : La SkyBox, la UltimateBox, la VoteBox, la DailyBox  
 Plus tard de nouvelles box seront là.
 
+/!\ bug notable : si votre iventare est plein , vous ne récupérez pas l'item du centre. /!\
+
 ![](../.gitbook/assets/box.png)
 
