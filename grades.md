@@ -38,7 +38,7 @@
 * Pouvoir écrire en couleur dans les mp
 * Limite de 10 slots dans l’HDV
 
-### **Legendary : Le meilleur grade du serveur pour 7000 tokens donne les avantages des grades précédent plus quelque bonus:** 
+### **Legendary : Le meilleur grade du serveur pour 7000 tokens donne les avantages des grades précédent plus quelque bonus:**
 
 * /flyspeed
 * /ptime
