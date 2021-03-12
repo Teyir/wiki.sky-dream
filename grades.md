@@ -8,7 +8,7 @@ description: Voici les informations à propos des grades payants
 
 ### **Survivaliste :Le grade de base, avec comme commande:**
 
-* /is \(border,info..\) Plus d’information sur la page “[Liste de commande](https://wiki.sky-dream.fr/iles/liste-des-commandes/commandes-joueur)”
+* /is \(border,info..\) Plus d’information sur la page “[_Liste de commande_](https://wiki.sky-dream.fr/iles/liste-des-commandes/commandes-joueur)”
 * /bottle \(store,get \) max
 * /sell all, h
 * 1 sethome
