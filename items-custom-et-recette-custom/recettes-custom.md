@@ -6,7 +6,7 @@ description: Voici les informations à propos des recettes custom
 
 ![](../.gitbook/assets/capture-decran-2021-03-12-190937.png)
 
-### **En plus des “Items custom”, il y a ces recettes qui permettent de craft les outils de Jobs. Pour y accéder, faites /recipes pour ouvrir le menu:**
+### **En plus des “**[_**Items custom**_](https://wiki.sky-dream.fr/items-custom-et-recette-custom/items-custom)**”, il y a ces recettes qui permettent de craft les outils de Jobs. Pour y accéder, faites /recipes pour ouvrir le menu:**
 
 ![](../.gitbook/assets/capture-decran-2021-03-12-183000.png)
 
