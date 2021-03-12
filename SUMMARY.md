@@ -49,4 +49,5 @@
 * [Mobs stackés](autres/mobs-stackes.md)
 * [Les autres commandes](autres/les-autres-commandes.md)
 * [AFK](autres/afk.md)
+* [Les grades](autres/les-grades.md)
 
