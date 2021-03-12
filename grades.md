@@ -1,3 +1,7 @@
+---
+description: Voici les informations à propos des grades payants
+---
+
 # Grades
 
 ![](.gitbook/assets/capture-decran-2021-03-12-143033.png)
