@@ -8,7 +8,7 @@ description: Voici les informations à propos des craft custom
 
 ### **Comme montré sur la page “**[**Le jobs shop**](https://wiki.sky-dream.fr/jobs/le-jobs-shop)**” Plus vous montez vos levels de jobs, plus vous allez débloquer les craft des outils custom de chaque métier.** 
 
-Comme présenté sur cette exemple du Jobs cuisinier
+Comme présenté sur cette exemple du Jobs cuisinier:
 
 ![](../.gitbook/assets/capture-decran-2021-03-13-221637.png)
 
