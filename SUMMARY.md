@@ -31,6 +31,7 @@
 
 * [Items Custom](custom/items-custom.md)
 * [Recettes Custom](custom/recettes-custom.md)
+* [Craft Custom](custom/craft-custom.md)
 
 ## Upgrade/Fonctionnalité
 
