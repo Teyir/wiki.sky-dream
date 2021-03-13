@@ -12,6 +12,6 @@ Comme présenté sur cette exemple du Jobs cuisinier
 
 ![](../.gitbook/assets/capture-decran-2021-03-13-221637.png)
 
-Level 50 du Jobs cuisiner, vous débloquez le craft de la pomme de Notch et ainsi de suite pour chaque Jobs  
+Level 50 du Jobs cuisiner, vous débloquez le craft de la pomme de Notch et ainsi de suite pour chaque Jobs.  
 
 
