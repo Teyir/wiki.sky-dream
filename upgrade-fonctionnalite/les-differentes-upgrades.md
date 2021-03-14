@@ -2,7 +2,7 @@
 description: Voici les informations sur les différentes upgrades
 ---
 
-# Les différentes upgrades
+# Les Différentes Upgrades
 
 ![](../.gitbook/assets/capture-decran-2021-03-14-214642.png)
 

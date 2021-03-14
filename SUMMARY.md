@@ -35,7 +35,7 @@
 
 ## Upgrade/Fonctionnalité
 
-* [Les différentes upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
+* [Les Différentes Upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
 * [Minions](upgrade-fonctionnalite/minions.md)
 * [Cobblegen](upgrade-fonctionnalite/cobblegen.md)
 
@@ -46,7 +46,7 @@
 
 ## Autres
 
-* [Les spawners](autres/les-spawners.md)
+* [Les Spawners](autres/les-spawners.md)
 * [Mobs stackés](autres/mobs-stackes.md)
 * [Les autres commandes](autres/les-autres-commandes.md)
 * [AFK](autres/afk.md)
