@@ -1,3 +1,7 @@
+---
+description: Voici les informations sur les spawners
+---
+
 # Les Spawners
 
 ![](../.gitbook/assets/capture-decran-2021-03-14-220034.png)
