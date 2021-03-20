@@ -10,7 +10,7 @@ description: Voici les informations sur le cobblegen
 
 ![](../.gitbook/assets/capture-decran-2021-03-20-220014.png)
 
-Le serveur rajoute un système d'amélioration du cobblegen qui vous permettra de faire apparaitre de plus en plus des minerais. Pour voir la page, faites /gen ou /generator :
+Le serveur rajoute un système d'amélioration du cobblegen qui vous permettra de faire apparaitre de plus en plus des minerais. Pour voir la page, faites /gen ou /generator:
 
 ![](../.gitbook/assets/capture-decran-2021-03-20-220841.png)
 
