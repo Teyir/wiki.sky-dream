@@ -3,6 +3,7 @@
 * [Principe du jeu](README.md)
 * [Grades](grades.md)
 * [Le Nouveau Spawn](le-nouveau-spawn.md)
+* [Box Louable](box-louable.md)
 
 ## Boxs <a id="box"></a>
 
