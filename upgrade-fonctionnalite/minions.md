@@ -74,7 +74,6 @@ Chaque minion a différente spécialité qui peuvent être améliorer en level u
     * Level12: 300 Millions
     * Level13: 500 Millions
   * Settings: \(Nombre de Block que le minion peut casser\)
-
     * Level1: 2
     * Level2: 3 
     * Level3: 4 
@@ -84,10 +83,10 @@ Chaque minion a différente spécialité qui peuvent être améliorer en level u
     * Level7: 8 
     * Level8: 9 
     * Level9: 10 
-    * Level10: 10 Enchante Smelt + Iron Pickaxe
-    * Level11: 10 Enchante Smelt + Fortune 1 + Golden Pickaxe
-    * Level12: 10 Enchante Smelt + Fortune 3 + Diamond Pickaxe
-    * Level13: 10 Enchante Smelt + Fortune 5 + Netherite Pickaxe
+    * Level10: 10 Enchante Smelt 
+    * Level11: 10 Enchante Smelt + Fortune 1 
+    * Level12: 10 Enchante Smelt + Fortune 3 
+    * Level13: 10 Enchante Smelt + Fortune 5 
 * **Seller:**
   * Prix:
     * Level2: 10 Millions
