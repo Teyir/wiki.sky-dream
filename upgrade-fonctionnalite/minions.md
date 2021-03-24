@@ -6,7 +6,7 @@ description: Voici les informations sur les minions
 
 ![](../.gitbook/assets/capture-decran-2021-03-15-154438.png)
 
-Pour débloquer les minions, il faut augmenter vos levels de jobs. Une fois débloquer un minion faites **/Minion store** pour ouvrir le shop des minions. En tout il y a 8 Minions:
+Pour débloquer les minions, il faut augmenter vos levels de jobs, plus d'information sur la page "[Les Jobs et les commandes](https://wiki.sky-dream.fr/jobs/les-jobs-et-les-commandes)". Une fois débloquer un minion faites **/Minion store** pour ouvrir le shop des minions. En tout il y a 8 Minions:
 
 ![](../.gitbook/assets/capture-decran-2021-03-15-154847.png)
 
