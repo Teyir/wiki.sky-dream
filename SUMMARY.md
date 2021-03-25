@@ -39,6 +39,7 @@
 * [Les Différentes Upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
 * [Minions](upgrade-fonctionnalite/minions.md)
 * [Cobblegen](upgrade-fonctionnalite/cobblegen.md)
+* [Events](upgrade-fonctionnalite/events.md)
 
 ## Zone Farming
 
