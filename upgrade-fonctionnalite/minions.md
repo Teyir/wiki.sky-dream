@@ -74,6 +74,7 @@ Chaque minion a différente spécialité qui peuvent être améliorer en level u
     * Level12: 300 Millions
     * Level13: 500 Millions
   * Settings: \(Nombre de Block que le minion peut casser\)
+
     * Level1: 2
     * Level2: 3 
     * Level3: 4 
