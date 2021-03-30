@@ -1,11 +1,18 @@
+---
+description: Voici les informations à propos de la DailyBox
+---
+
 # DailyBox
 
-La DailyBox est une box pouvant être obtenue avec le /daily une fois par jour. Les quantités de Box obtenue diffère selon les jours cumulés :   
-1j-&gt;1Box, 2j-&gt;1Box, 3j-&gt;1Box, 4j-&gt;2Box, 5j-&gt;2Box, 6j-&gt;2Box, 7j-&gt;3Box, 8j-&gt;4Box, 9j-&gt;5Box  
-Vous obtiendrez dans cette Box :   
-     - 2 Items de la catégorie Prizes aléatoire  
-     - 1 Item de la catégorie BestPrizes aléatoire  
-     - 1000 XP et 2500 SC \(argent\)
+### La DailyBox est une box obtenable avec le /daily. Si vous faites le /daily une fois par jour, arriver à 9 jours vous gagnaient une bonne récompense:
+
+![](../.gitbook/assets/capture-decran-2021-03-30-134500.png)
+
+Vous obtiendrez dans cette Box quotidienne:
+
+* 2 items de la catégorie Prizes aléatoire
+* 1 item de la catégorie BestPrizes aléatoire
+* 1000 XP et 2500 SC \(argent\)
 
 ![](../.gitbook/assets/dailybox.png)
 
