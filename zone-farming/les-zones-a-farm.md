@@ -4,8 +4,6 @@ description: Voici les informations sur les zones à farm
 
 # Les Zones à Farm
 
-
-
 ![](../.gitbook/assets/capture-decran-2021-03-30-103154.png)
 
 ### **Dans la zone Farming, il y a des zones spécifiques cachées pour avoir des minerais, des items customs et des loots customs:**
