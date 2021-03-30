@@ -11,7 +11,7 @@ description: Voici les informations à propos de la SkyBox
 * Avec les tokens: /tshop
 * Dans d’autres box
 
-**Il y a diverses récompenses, vous obtiendrez dans la box :** 
+**Il y a diverses récompenses, vous obtiendrez dans la box:** 
 
 * 4 items de la catégories Prizes de manière aléatoire
 * 1 item de la catégorie BestPrizes de manière aléatoire 
