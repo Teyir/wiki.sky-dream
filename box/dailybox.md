@@ -4,6 +4,8 @@ description: Voici les informations à propos de la DailyBox
 
 # DailyBox
 
+![](../.gitbook/assets/capture-decran-2021-03-30-134833.png)
+
 ### La DailyBox est une box obtenable avec le /daily. Si vous faites le /daily une fois par jour, arriver à 9 jours vous gagnaient une bonne récompense:
 
 ![](../.gitbook/assets/capture-decran-2021-03-30-134500.png)
