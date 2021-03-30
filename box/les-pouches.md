@@ -1,11 +1,27 @@
+---
+description: Voici les informations à propos des pouches
+---
+
 # Les Pouches
 
-Les Pouches sont des Box spéciales qui drop de manière aléatoire une quantité d'un même item.   
-Par exemple le DiamondPouch permet de droper entre 1 et 128 Bloc de Diamants.  
-  
-Il en existe 9 pour le moment : Exp, fer, or, diamant, emeraude, netherite, money T1, money T2, money T3.  
-  
-Leurs obtentions dépendra des différents évents, quêtes ou sympathie des admins ;\) 
+![](../.gitbook/assets/capture-decran-2021-03-30-154820.png)
+
+### **Les Pouches sont des Boxs spéciaux qui drop de manière aléatoire une quantité d'un même item. Par exemple, le DiamondPouch permet de droper entre 1 et 128 Blocs de Diamants.**
+
+Il y a 9 types de Pouch pour le moment: 
+
+* Exp
+* Fer
+* Or
+* Diamant
+* Emeraude
+* Netherite
+* Money T1
+* Money T2
+* Money T3
+
+Pour les obtenir, ce sera dans les différents évents, quêtes ou sympathie des admins.  
+
 
 ![](../.gitbook/assets/pouches.png)
 
