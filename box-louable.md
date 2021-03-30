@@ -4,8 +4,6 @@ description: Voici les informations à propos des Box à louer
 
 # Box Louable
 
-
-
 ![](.gitbook/assets/capture-decran-2021-03-23-213733.png)
 
 ### Avec ce Spawn, vous avez différents lieux où vous pouvez louer une petite box pour faire un mini-marché à vous pour vendre vos items aux autres joueurs:
