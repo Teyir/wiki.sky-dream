@@ -44,7 +44,7 @@
 ## Zone Farming
 
 * [Principe](zone-farming/principe.md)
-* [Les zones à farm](zone-farming/les-zones-a-farm.md)
+* [Les Zones à Farm](zone-farming/les-zones-a-farm.md)
 
 ## Autres
 
