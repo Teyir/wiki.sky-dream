@@ -12,6 +12,10 @@ description: Voici les informations sur les spawners
 
 Pour pouvoir acheter les spawner de type passif, il faut améliorer le job de BOUCHER et pour pouvoir acheter les spawner de type agressif, il faut améliorer le job de CHASSEUR.
 
+
+
+Vous pouvez stacker maximum 10 spawners, la limite est de 20 spawners physiques par chunks.
+
 \*\*\*\*
 
 
