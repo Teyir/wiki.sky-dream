@@ -8,7 +8,7 @@ description: Voici les informations à propos des Quêtes
 
 ### Le serveur met à disposition différente quêtes qui vont de 1 à 17, ces quêtes sont de plus en plus dures et vous permettent d'explorer la zone farming. D'autres quêtes seront ajoutées dans le futur.
 
-Pour avoir accès à la première quête, vous devez monter votre SkyGrade à FARMEUR. Ensuite, vous devez trouver Erneste qui est caché dans le spawn:
+Pour avoir accès à la première quête, vous devez monter votre SkyGrade à FARMEUR \(/sg\). Ensuite, vous devez trouver Erneste qui est caché dans le spawn:
 
 ![](../.gitbook/assets/capture-decran-2021-04-13-204424.png)
 
