@@ -40,6 +40,7 @@
 * [Minions](upgrade-fonctionnalite/minions.md)
 * [Cobblegen](upgrade-fonctionnalite/cobblegen.md)
 * [Events](upgrade-fonctionnalite/events.md)
+* [Quests](upgrade-fonctionnalite/quests.md)
 
 ## Zone Farming
 
