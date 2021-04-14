@@ -10,7 +10,7 @@ description: Voici les informations à propos des skygrades et des challenges se
 
 ![](../.gitbook/assets/unknown.png)
 
-Ensuite, le serveur met à disposition des challenges secondaires qui sont plus ou moins simple. Pour y accéder, faites /cs:
+Ensuite, le serveur met à disposition des challenges secondaires qui sont plus ou moins simple. Néanmoins, certains cs sont cachés, à vous de les trouver. Pour y accéder, faites /cs:
 
 ![](../.gitbook/assets/capture-decran-2021-04-14-152534.png)
 
