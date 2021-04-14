@@ -36,6 +36,7 @@
 
 ## Upgrade/Fonctionnalité
 
+* [Skygrade & Challenges Secondaires](upgrade-fonctionnalite/skygrade-and-challenges-secondaires.md)
 * [Les Différentes Upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
 * [Minions](upgrade-fonctionnalite/minions.md)
 * [Cobblegen](upgrade-fonctionnalite/cobblegen.md)
