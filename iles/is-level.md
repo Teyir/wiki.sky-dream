@@ -2,7 +2,7 @@
 description: Voici les informations à propos du is level
 ---
 
-# Is level
+# Is Level
 
 ![](../.gitbook/assets/is-level.png)
 
