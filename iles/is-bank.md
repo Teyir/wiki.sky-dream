@@ -16,5 +16,3 @@ Il y a aussi d'autres commandes:
 * /is bank withdraw MONTANT  \| Retirer de l'argent de l'is bank
 * /is bank balance  \| Afficher le solde de l'is bank
 
-
-
