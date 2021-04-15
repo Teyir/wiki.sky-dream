@@ -19,6 +19,7 @@
 * [Les Fours](iles/les-fours.md)
 * [Is Level](iles/is-level.md)
 * [Is Bank](iles/is-bank.md)
+* [Cobblegen](iles/cobblegen.md)
 * [Liste des commandes](iles/liste-des-commandes/README.md)
   * [Commandes joueur](iles/liste-des-commandes/commandes-joueur.md)
   * [Commandes chef de l'île](iles/liste-des-commandes/commandes-chef-de-lile.md)
@@ -39,7 +40,6 @@
 * [Skygrade & Challenges Secondaires](upgrade-fonctionnalite/skygrade-and-challenges-secondaires.md)
 * [Les Différentes Upgrades](upgrade-fonctionnalite/les-differentes-upgrades.md)
 * [Minions](upgrade-fonctionnalite/minions.md)
-* [Cobblegen](upgrade-fonctionnalite/cobblegen.md)
 * [Events](upgrade-fonctionnalite/events.md)
 * [Quests](upgrade-fonctionnalite/quests.md)
 
