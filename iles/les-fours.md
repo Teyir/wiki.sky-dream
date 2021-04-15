@@ -1,12 +1,19 @@
 ---
-description: Voici la liste des 210 niveaux pour votre four .
+description: Voici les informations à propos des fours
 ---
 
-# Les fours
+# Les Fours
 
-Il y a 2 buggs notables   
-  
-1\) Si vous cassez votre four il garderas son niveau mais pas la progression de celui-ci .  
-  
-2\) si vous avez un four level " X " et que vous l'utilisez dans le craft du smoker/blastfurnace celui-ci reviens au level 1 
+![](../.gitbook/assets/capture-decran-2021-04-15-164445.png)
+
+### Le serveur a aussi des fours customs qui peuvent être level up en fessant cuire divers items ou avec de la money, de l 'xp. Pour voire l'interface des fours, faites click gauche:
+
+![](../.gitbook/assets/capture-decran-2021-04-15-165146.png)
+
+En level up votre four, cela vous permettra de cuire les items plus vite et d'avoir un bonus de cuisson qui augmente au fur et une mesure.
+
+**/!\ 2 BUG NOTABLE /!\**
+
+* Si vous cassez votre four, il gardera son niveau mais pas sa progression.
+* Si vous avez un four level " X " et que vous l'utilisez dans le craft du smoker/blastfurnace celui-ci reviens au level 1.
 
