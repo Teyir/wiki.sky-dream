@@ -1,4 +1,4 @@
-# Principe du jeu
+# Principe du Jeu
 
 Bonjour à tous et bienvenue sur le Wiki de Sky-Dream.  
   

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Principe du jeu](README.md)
+* [Principe du Jeu](README.md)
 * [Grades](grades.md)
 * [Le Nouveau Spawn](le-nouveau-spawn.md)
 * [Box Louable](box-louable.md)
