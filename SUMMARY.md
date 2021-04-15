@@ -18,7 +18,7 @@
 
 * [Les fours](iles/les-fours.md)
 * [Is level](iles/is-level.md)
-* [Is bank](iles/is-bank.md)
+* [Is Bank](iles/is-bank.md)
 * [Liste des commandes](iles/liste-des-commandes/README.md)
   * [Commandes joueur](iles/liste-des-commandes/commandes-joueur.md)
   * [Commandes chef de l'île](iles/liste-des-commandes/commandes-chef-de-lile.md)

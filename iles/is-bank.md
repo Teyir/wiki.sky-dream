@@ -1,17 +1,20 @@
-# Is bank
+---
+description: Voici les informations à propos du is bank
+---
 
-L'is bank vous permet de stocker de la monnaie pour que les membres de votre île puissent l'utiliser.
+# Is Bank
 
+![](../.gitbook/assets/capture-decran-2021-04-15-162916.png)
 
+### Le /is bank vous permet de stocker de la monnaie pour que les membres de votre île puissent l'utiliser. De plus, vous avez des intérêts de 5% de votre bank qui vous sont versés tous les jours. Pour voir les transactions et les investissements, faites /is bank statement:
 
-Voici la liste des commandes
+![](../.gitbook/assets/capture-decran-2021-04-15-163540.png)
+
+Il y a aussi d'autres commandes:
 
 * /is bank deposit MONTANT \| Déposer de l'argent dans l'is bank
 * /is bank withdraw MONTANT  \| Retirer de l'argent de l'is bank
 * /is bank balance  \| Afficher le solde de l'is bank
-* /is bank statement  \| Ouvrir le menu des transactions et des investissements 
 
-Avec le solde de votre is bank vous avez des intérêts qui vont sont versés tous les jours à 5h11.
 
-Le taux d'intérêt est de 5%
 
