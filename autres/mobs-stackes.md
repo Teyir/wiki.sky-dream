@@ -1,6 +1,12 @@
-# Mobs stackés
+---
+description: Voici les informations sur les mobs stackés
+---
 
-Sur le serveur les mobs sont stackés automatiquement, mais pour éviter quelques problèmes certains mobs ne sont pas concernés, voici la liste des mobs non stackés:
+# Mobs Stackés
+
+![](../.gitbook/assets/capture-decran-2021-04-15-154242.png)
+
+### Sur le serveur, les mobs ce stack automatiquement. Mais pour éviter les lags et garder nos 20 tps constant :D, voici la liste des mobs non stackable: 
 
 * COW
 * SHEEP
@@ -27,9 +33,5 @@ Sur le serveur les mobs sont stackés automatiquement, mais pour éviter quelque
 * WOLF
 * IRON\_GOLEM
 
-
-
-Les mobs se stackent dans un rayon de 10 blocks , la limite est de 30 mobs stackés par stack.
-
-Les mobs ne se stackent pas dans la zone farming.
+De plus, les mobs se stackent dans un rayon de 10 blocks, et la limite est de 30 mobs par stack. Les mobs ne se stackent pas dans la zone farming.
 
