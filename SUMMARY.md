@@ -16,13 +16,13 @@
 
 ## Îles
 
+* [Liste des commandes](iles/liste-des-commandes/README.md)
+  * [Commandes joueur](iles/liste-des-commandes/commandes-joueur.md)
+  * [Commandes chef de l'île](iles/liste-des-commandes/commandes-chef-de-lile.md)
 * [Les Fours](iles/les-fours.md)
 * [Is Level](iles/is-level.md)
 * [Is Bank](iles/is-bank.md)
 * [Cobblegen](iles/cobblegen.md)
-* [Liste des commandes](iles/liste-des-commandes/README.md)
-  * [Commandes joueur](iles/liste-des-commandes/commandes-joueur.md)
-  * [Commandes chef de l'île](iles/liste-des-commandes/commandes-chef-de-lile.md)
 
 ## Jobs
 
