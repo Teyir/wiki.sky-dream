@@ -1,20 +1,18 @@
 ---
-description: Serveur AFK
+description: Voici les informations à propos du serveur afk
 ---
 
-# AFK
+# Serveur AFK
 
-Le serveur dispose d'un serveur AFK pour limiter les AFK sur le SkyBlock.
+![](../.gitbook/assets/capture-decran-2021-04-15-152203.png)
 
-Pour commencer à obtenir des récompenses faites **/invest** et sélectionnez un investissement \( si vous vous déconnectez l'investissement est mis en pause\). Une fois l'investissement terminé vous obtiendrez des AFK Coins.
+### Le serveur dispose d'un serveur AFK car l'AFK sur son is est interdit. Pour pouvoir AFK, faites /invest sur le serveur AFK pour pouvoir commencer à AFK tranquillement:
 
-Pour retourner sur le serveur SkyBlock faites **/server skyblock** .
+![](../.gitbook/assets/capture-decran-2021-04-15-152910.png)
 
+Une fois avoir fini votre **/invest**, revenez sur le serveur avec le **/serveur skyblock**. Ensuite, vous allez gagner des AFK coins qui vous permettront d'acheter des items dans le **/afkshop**:
 
+![](../.gitbook/assets/capture-decran-2021-04-15-153259.png)
 
-Une fois sur le serveur SkyBlock faites **/afkmenu** ou **/afkshop** pour dépenser ses AFK Coins.
-
-
-
-PS: le serveur reste constamment allumé 
+Le serveur reste constamment allumer alors pas de limite de temps pour AFK :D
 

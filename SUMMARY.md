@@ -53,5 +53,5 @@
 * [Les Spawners](autres/les-spawners.md)
 * [Mobs stackés](autres/mobs-stackes.md)
 * [Les autres commandes](autres/les-autres-commandes.md)
-* [AFK](autres/afk.md)
+* [Serveur AFK](autres/afk.md)
 
