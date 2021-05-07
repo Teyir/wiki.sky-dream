@@ -47,7 +47,6 @@ description: Voici les informations à propos des grades payants
 * /flyspeed
 * /ptime
 * /back
-* /back
 * /compass
 * /uncondense
 * /glow
