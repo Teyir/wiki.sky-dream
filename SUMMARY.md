@@ -55,7 +55,3 @@
 * [Les autres commandes](autres/les-autres-commandes.md)
 * [Serveur AFK](autres/afk.md)
 
-## Serveur Crack
-
-* [Connexion](serveur-crack/connexion.md)
-
